@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff0f5;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background: #ff69b4;
+  padding: 15px;
+  align-items: center;
+}
+
+.nav h2 {
+  color: white;
+}
+
+.nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page {
+  padding: 40px;
+  text-align: center;
+}
+
+.hero {
+  background-color: #ffe4e9;
+  padding: 80px 20px;
+}
+
+.cta-btn {
+  padding: 12px 25px;
+  background-color: #d6336c;
+  border: none;
+  color: white;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.filter-btns button {
+  margin: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background: #ff69b4;
+  color: white;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  background: #ff69b4;
+  color: white;
+  padding: 10px;
+}

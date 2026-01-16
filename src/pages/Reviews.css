@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400&display=swap');
+
+.reviews-page {
+  background: linear-gradient(to bottom, #fff0f2, #fff8f0, #fffefc);
+  min-height: 100vh;
+  padding: 60px 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Hero */
+.reviews-hero {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.reviews-hero h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 70px;
+  background: linear-gradient(45deg, #ff7eb3, #ffd1a4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 2px #000;
+}
+
+.reviews-hero p {
+  font-size: 20px;
+  color: #b02a5b;
+}
+
+/* Grid */
+.reviews-grid {
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+}
+
+/* Cards */
+.review-card {
+  background: rgba(255, 230, 240, 0.75);
+  padding: 30px;
+  border-radius: 30px;
+  box-shadow: 0 0 25px rgba(255,105,180,0.4);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.review-card:hover {
+  transform: translateY(-10px);
+}
+
+.stars {
+  font-size: 22px;
+  color: #ff69b4;
+  margin-bottom: 15px;
+}
+
+.review-card p {
+  font-size: 16px;
+  color: #5c0025;
+  margin-bottom: 20px;
+}
+
+.review-card h4 {
+  font-size: 18px;
+  color: #b02a5b;
+}
+
+.review-card span {
+  font-size: 14px;
+  color: #8a0038;
+}
+
+/* CTA */
+.reviews-cta {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.reviews-cta h2 {
+  font-family: "Pacifico", cursive;
+  font-size: 42px;
+  color: #d92f6f;
+  margin-bottom: 30px;
+}
+
+.reviews-cta button {
+  padding: 18px 60px;
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(45deg, #ffd1a4, #ffe0e5);
+  color: #b02a5b;
+  font-size: 22px;
+  cursor: pointer;
+  text-shadow: 1px 1px 0 #000;
+  box-shadow: 0 0 20px rgba(255,105,180,0.6);
+}
+
+.reviews-cta button:hover {
+  transform: scale(1.1);
+}
