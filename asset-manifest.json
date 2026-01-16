@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NailVibe/static/css/main.7521a5f6.css",
+    "main.js": "/NailVibe/static/js/main.54ce6704.js",
+    "static/media/nail5.jpg": "/NailVibe/static/media/nail5.4857dc08f556067cc545.jpg",
+    "static/media/nail8.jpg": "/NailVibe/static/media/nail8.01f2594592df3769f13b.jpg",
+    "static/media/nail7.jpg": "/NailVibe/static/media/nail7.8e31d845761da791a2ba.jpg",
+    "static/media/nail9.jpg": "/NailVibe/static/media/nail9.8e31d845761da791a2ba.jpg",
+    "static/media/nail10.jpg": "/NailVibe/static/media/nail10.bd46776f0ec2441dfd09.jpg",
+    "static/media/nail4.jpg": "/NailVibe/static/media/nail4.f92d709f5ab9dcaf1d8d.jpg",
+    "static/media/nail6.jpg": "/NailVibe/static/media/nail6.971af5cd5bdb5428a2a9.jpg",
+    "static/media/nail11.jpg": "/NailVibe/static/media/nail11.13707097d0e74e13a017.jpg",
+    "static/media/nail3.jpg": "/NailVibe/static/media/nail3.ae5db933c268647fcc0b.jpg",
+    "static/media/nail1.jpg": "/NailVibe/static/media/nail1.ee31e061f7f502fad747.jpg",
+    "index.html": "/NailVibe/index.html",
+    "main.7521a5f6.css.map": "/NailVibe/static/css/main.7521a5f6.css.map",
+    "main.54ce6704.js.map": "/NailVibe/static/js/main.54ce6704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7521a5f6.css",
+    "static/js/main.54ce6704.js"
+  ]
+}
